@@ -1,2 +1,2 @@
 # FirebaseExample
-Firebase Example
+This is an example for android application connected with firebase database
